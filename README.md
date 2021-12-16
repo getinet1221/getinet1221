@@ -19,5 +19,5 @@ Yükleniyor ....
 - <img src="cyclining.jpg" height="50" width="50" /> **Cycling**
 - <img src="cooking.png" height="50" width="50" /> **Cooking**
 ### Address
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw1z_sQLN26mmNpKHV-tasSQ&ust=1639748079302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC61eK36PQCFQAAAAAdAAAAABAD" />
+- <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"/>
 
