@@ -15,8 +15,9 @@ Yükleniyor ....
 - ALX, **Software Engineering**
 ### Hobbies
 - <img src="traveling.png" height="50" width="50" /> **Traveling**
-- <img src="traveling.png" /> **Reading**
-- <img src="cyclining.jpg" /> **Cycling**
-- <img src="cooking.png" height="30" width="30" /> **Cooking**
+- <img src="reading.png"  height="50" width="50"/> **Reading**
+- <img src="cyclining.jpg" height="50" width="50" /> **Cycling**
+- <img src="cooking.png" height="50" width="50" /> **Cooking**
 ### Address
+- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw1z_sQLN26mmNpKHV-tasSQ&ust=1639748079302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC61eK36PQCFQAAAAAdAAAAABAD" />
 
