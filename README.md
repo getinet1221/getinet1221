@@ -20,6 +20,6 @@ Yükleniyor ....
 - <img src="cooking.png" height="50" width="50" /> **Cooking**
 ### Address
 - <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="70"/> getinetamare@gmail.com
-- [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/gama2112)
+- [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/gama2112) || @gama2112
 
 
