@@ -14,7 +14,7 @@ Yükleniyor ....
 - Nicosia, North Cyprus **Software Engineering**[Near East University](https://www.neu.edu.tr)
 - ALX, **Software Engineering**
 ### Hobbies
-- Traveling <img src="traveling.png" height="30" width="30" /> 
+- <img src="traveling.png" height="50" width="50" /> ##### Traveling
 - Reading <img src="traveling.png" />
 - Cycling <img src="cyclining.jpg" />
 - Cooking <img src="cooking.png" height="30" width="30" />
