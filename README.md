@@ -19,5 +19,5 @@ Yükleniyor ....
 - <img src="cyclining.jpg" height="50" width="50" /> **Cycling**
 - <img src="cooking.png" height="50" width="50" /> **Cooking**
 ### Address
-- <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="50"/>
+- [<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="70"/>](<a href="mailto:getinetamare@gmail.com" Email Me</a>)
 
