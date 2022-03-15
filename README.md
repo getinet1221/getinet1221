@@ -11,8 +11,6 @@ Yükleniyor ....
 - ASP dot Net
 - ASP.Net Web API
 - TypeScript
-- Angular
-- React
 - JSP
 ### Education
 - Nicosia, North Cyprus **Software Engineering**, [Near East University](https://www.neu.edu.tr)
