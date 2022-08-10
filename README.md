@@ -1,6 +1,6 @@
 ### Profile
 I am a driven individual with the ability to adapt to any situtation and proven protentail to grow self and others.
-### Work expriance
+### Work Experience
 Henüz kanıtlanmış bir iş deneyimim yok. Yakın gelecekte sahip olmak için çalışıyorum.
 Yükleniyor ....
 ### Skills
